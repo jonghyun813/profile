@@ -84,7 +84,7 @@ p.profile-info {
 nav a {
   text-decoration: none;
   color: black;
-  margin-right: 30px;
+  margin-right: 10px;
   font-size: 15px;
 }
 nav a:hover {
@@ -94,4 +94,9 @@ nav a:hover {
 .links {
   text-decoration: none;
   color: cornflowerblue;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between; /* Distribute the anchors evenly */
 }
