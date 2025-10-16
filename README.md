@@ -1,2 +1,2 @@
-# 98minjae.github.io
+# jonghyun813.github.io
 This template is from <a href="https://jonbarron.info/">Jon Barron</a>.
